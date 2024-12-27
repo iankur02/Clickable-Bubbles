@@ -1,0 +1,17 @@
+body {
+    overflow: hidden;
+    background-color: #1a1a1a;
+}
+
+canvas {
+    display: block;
+}
+
+span {
+    margin-top: 60px;
+    
+    text-decoration: solid;
+
+    color: white;
+    background-color: red;
+}
